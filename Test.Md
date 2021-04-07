@@ -3,4 +3,5 @@ Gitpodでの連携テスト　これもしかしてめちゃくちゃ便利な�
 
 ## テスト
 - VSCodeが自動的に使える
-- これgit commitできるの？
+- これgit pushできるの？
+- できたけどPermission的にはちょっと不安　さてこっちはdevブランチ切ったけどpushできるか
